@@ -56,7 +56,9 @@ das tarefas será realizado por meio de reuniões
 semanais durante as aulas da disciplina.
 - Na próxima reunião, serão avaliados os resultados 
 das pesquisas iniciais e definida a estrutura do 
-projeto. 
+projeto.
+
+---
 
 ## ATA 02 — 17/06/2026
 
