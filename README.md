@@ -1,7 +1,9 @@
 # Registro de Atas — Projeto Integrador I
 
 **Civilização Maia: Avanços, Conhecimentos e Legado**   
+
 **SEPE 2026 — Semana de Ensino, Pesquisa e Extensão** 
+
 **Painel de Integração de Conhecimentos** 
 **Instituto Federal Catarinense — Campus Araquari**
 **Curso:** Informática para Internet  
