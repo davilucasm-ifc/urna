@@ -62,40 +62,57 @@ projeto.
 
 ## ATA 02 — 17/06/2026
 
-**Assunto:** Formação da base inicial do trabalho e organização das primeiras etapas.
+**Assunto:** Formação da base inicial do trabalho e organização das primeiras etapas de desenvolvimento do projeto.
+
+**Ausentes:**
+Nenhum.
 
 **Decisões:**
-- Pedro criou e compartilhou o repositório do projeto no GitHub.
-- Henrique desenvolveu um arquivo HTML inicial.
-- Nicolly e Ana iniciaram a elaboração da página no Figma e pesquisaram referências visuais.
+- Pedro criou e compartilhou o repositório do projeto no GitHub com os integrantes da equipe.
+- Henrique desenvolveu um arquivo HTML inicial, com o objetivo de estruturar e testar as primeiras ideias para o site.
+- Nicolly e Ana iniciaram a elaboração da página do projeto no Figma, realizando também uma pesquisa por referências visuais para a interface.
 
 **Encaminhamentos:**
-- Continuidade do desenvolvimento do HTML.
-- Organização das referências visuais para a construção da interface.
+- Pedro concluiu a atividade relacionada à criação e compartilhamento do repositório.
+- Henrique concluiu a etapa inicial de desenvolvimento do HTML.
+- Nicolly e Ana reuniram as referências necessárias para o projeto, ficando pendente apenas a organização e aplicação dessas referências no Figma.
+
+---
 
 ## ATA 03 — 25/06/2026
 
-**Assunto:** Continuação das atividades e definição da interface do site.
+**Assunto:** Continuação das atividades iniciadas na semana anterior e definição de aspectos da estrutura e da interface do site. 
+
+**Ausentes:** Emanuel - justificativa: estava doente.
+Nicolly - justificativa: não estava bem.
 
 **Decisões:**
-- Henrique ficou responsável pela continuidade do desenvolvimento do HTML.
-- O grupo definiu aspectos iniciais da interface com base nas referências pesquisadas.
+- Henrique ficou responsável pelo desenvolvimento e continuidade do HTML do projeto.
+- Foi realizada a definição inicial da interface do site, considerando as referências pesquisadas pelo grupo.
 
 **Encaminhamentos:**
-- Pedro atualizou o GitHub e compartilhou o repositório com o professor.
-- Os integrantes presentes buscaram novas referências para aprimorar a proposta visual.
-- Henrique deu continuidade à estrutura HTML.
+- Pedro realizou atualizações no GitHub e providenciou o compartilhamento do repositório com o professor, permitindo sua participação como colaborador.
+- Todos os integrantes presentes buscaram novas referências para aprimorar a proposta desenvolvida no Figma.
+- Henrique deu continuidade ao desenvolvimento da estrutura HTML do site.
+
+---
 
 ## ATA 04 — 02/07/2026
 
-**Assunto:** Aprendizagem sobre o GitHub e utilização de comandos no terminal.
+**Assunto:** Discussão e aprendizagem sobre o GitHub e utilização de comandos no terminal.
+
+**Ausentes:**
+- Davi - justificativa: estava doente.
+- Nicolly - justificativa: compromissos familiares.
 
 **Decisões:**
-- Foram discutidas e definidas ideias para os tópicos e conteúdos das páginas do site.
+- Foram discutidas e definidas ideias relacionadas aos tópicos e conteúdos de cada página do site.
 
 **Encaminhamentos:**
-- Os integrantes presentes participaram de uma atividade sobre o funcionamento do GitHub e aprenderam a clonar o repositório pelo terminal.
-- O conhecimento adquirido seria utilizado nas próximas etapas do projeto.
+- Os integrantes presentes participaram de uma atividade de aprendizagem sobre o funcionamento do GitHub e aprenderam a clonar o repositório por meio do terminal.
+- O conhecimento adquirido deverá ser utilizado nas próximas etapas de desenvolvimento e organização do projeto.
+
+---
 
 ## ATA 05 — 09/07/2026
 
