@@ -83,8 +83,9 @@ Nenhum.
 
 **Assunto:** Continuação das atividades iniciadas na semana anterior e definição de aspectos da estrutura e da interface do site. 
 
-**Ausentes:** Emanuel - justificativa: estava doente.
-Nicolly - justificativa: não estava bem.
+**Ausentes:**
+- Emanuel - justificativa: estava doente.
+- Nicolly - justificativa: não estava bem.
 
 **Decisões:**
 - Henrique ficou responsável pelo desenvolvimento e continuidade do HTML do projeto.
@@ -116,34 +117,50 @@ Nicolly - justificativa: não estava bem.
 
 ## ATA 05 — 09/07/2026
 
-**Assunto:** Organização das atividades e das responsabilidades do grupo.
+**Assunto:** Verificação das últimas etapas de organização e desenvolvimento do projeto.
+
+**Ausentes:**
+- Nicolly - justificativa: estava doente.
 
 **Decisões:**
-- Pedro deixou de participar do trabalho após mudar de escola.
-- Henrique assumiu a organização e a manutenção do GitHub.
-- Davi ficou responsável pelo Instagram do projeto.
-- Ana iniciou o desenvolvimento do CSS.
+- Pedro mudou de escola e, consequentemente, deixou de participar do trabalho.
+- Henrique assumiu a responsabilidade pela organização e manutenção do GitHub.
+- Davi ficou responsável pelo desenvolvimento e organização do Instagram do projeto.
+- Ana iniciou o desenvolvimento do CSS, dando continuidade à estrutura visual do site.
 
 **Encaminhamentos:**
-- Henrique criou um novo repositório e compartilhou com os integrantes.
+- Henrique criou um novo repositório para o projeto e realizou o compartilhamento com os demais integrantes do grupo.
 - As responsabilidades foram reorganizadas de acordo com a nova composição da equipe.
+
+---
 
 ## ATA 06 — 16/07/2026
 
-**Assunto:** Verificação dos repositórios e organização dos conteúdos do projeto.
+**Assunto:** Verificação dos repositórios do GitHub e organização dos conteúdos a serem adicionados ao projeto.
+
+**Ausentes:** 
+- Davi - justificativa: estava doente, com atestado.
 
 **Decisões:**
-- Os integrantes organizaram e dividiram as partes práticas do site.
-- Emanuel ficou responsável pelo registro das atas durante a reunião.
-- Foi iniciado o desenvolvimento das páginas.
+- Os integrantes organizaram e dividiram as partes práticas do site, definindo qual página ficaria sob responsabilidade de cada membro.
+- Emanuel ficou responsável pelo registro das atas do grupo durante esta reunião.
+- Foi iniciado o processo de produção e desenvolvimento das páginas do site.
 
 **Encaminhamentos:**
-- Emanuel desenvolveu grande parte do index inicial.
-- Henrique recebeu as atas e o index atualizado para dar continuidade à organização dos arquivos.
+- Emanuel desenvolveu grande parte do index inicial do projeto.
+- Henrique recebeu as atas e o index atualizado, dando continuidade à organização dos arquivos do projeto.
+
+---
 
 ## ATA 07 — 13/08/2026
 
-**Assunto:** Acompanhamento do desenvolvimento das páginas e das atividades dos integrantes.
+**Assunto:** Verificação do andamento das páginas e acompanhamento das atividades atribuídas a cada integrante.
+
+**Ausentes:** 
+- Davi - justificativa: estava com mal-estar.	
+- Nicolly - justificativa: problemas pessoais.
+
+--- Parei aqui!!!!
 
 **Decisões:**
 - O grupo revisou a divisão das atividades.
