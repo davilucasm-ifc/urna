@@ -237,7 +237,7 @@ Nenhum.
 
 ---
 
-## ATA 11 — 09/09/2026
+## ATA 11 — 09/09/2026 - AULA EXTRA
 
 **Assunto:** Aula extra destinada à continuidade e finalização das atividades do Projeto Integrador I, com desenvolvimento das páginas, conclusão das pesquisas e organização dos arquivos do projeto.
 
