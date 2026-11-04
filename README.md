@@ -2,9 +2,9 @@
 
 **Civilização Maia: Avanços, Conhecimentos e Legado**   
 
+**Instituto Federal Catarinense — Campus Araquari**                  
 **SEPE 2026 — Semana de Ensino, Pesquisa e Extensão**                                             
 **Painel de Integração de Conhecimentos**           
-**Instituto Federal Catarinense — Campus Araquari**           
 **Curso:** Informática para Internet        
 **Turma:** 1INFO2            
 **Orientador:** Kennedy Ferreira Araújo         
@@ -27,36 +27,17 @@ Ana, Davi, Emanuel, Henrique, Pedro Amaral e Nicolly.
 Nenhum.
 
 **Decisões:**
-- Emanuel foi designado como coordenador da 
-equipe, ficando responsável pelo acompanhamento 
-das atividades e pela organização das reuniões.
-- Davi foi designado como secretário, responsável 
-pelo registro das atas e da documentação do 
-projeto.
-- Pedro Amaral assumiu a responsabilidade pela 
-criação, organização e manutenção do repositório 
-do projeto no GitHub.
-- Ana, Henrique e Nicolly ficaram responsáveis pelas 
-pesquisas bibliográficas, levantamento de 
-informações e planejamento inicial da interface do 
-projeto.
-- Após discussão entre os integrantes, foi definido que 
-o tema do Projeto Integrador será a Civilização Maia, 
-contemplando seus aspectos históricos, culturais, 
-científicos e arquitetônicos. 
+- Emanuel foi designado como coordenador da equipe, ficando responsável pelo acompanhamento das atividades e pela organização das reuniões.
+- Davi foi designado como secretário, responsável pelo registro das atas e da documentação do projeto.
+- Pedro Amaral assumiu a responsabilidade pela criação, organização e manutenção do repositório do projeto no GitHub.
+- Ana, Henrique e Nicolly ficaram responsáveis pelas pesquisas bibliográficas, levantamento de informações e planejamento inicial da interface do projeto.
+- Após discussão entre os integrantes, foi definido que o tema do Projeto Integrador será a Civilização Maia, contemplando seus aspectos históricos, culturais, científicos e arquitetônicos. 
 
 **Encaminhamentos:**
-- Cada integrante deverá iniciar as atividades 
-correspondentes à função que lhe foi atribuída.
-- As atualizações do projeto deverão ser 
-apresentadas e registradas nas reuniões 
-subsequentes.
-- O acompanhamento do cronograma e da execução 
-das tarefas será realizado por meio de reuniões 
-semanais durante as aulas da disciplina.
-- Na próxima reunião, serão avaliados os resultados 
-das pesquisas iniciais e definida a estrutura do 
-projeto.
+- Cada integrante deverá iniciar as atividades correspondentes à função que lhe foi atribuída.
+- As atualizações do projeto deverão ser apresentadas e registradas nas reuniões subsequentes.
+- O acompanhamento do cronograma e da execução das tarefas será realizado por meio de reuniões semanais durante as aulas da disciplina.
+- Na próxima reunião, serão avaliados os resultados das pesquisas iniciais e definida a estrutura do projeto.
 
 ---
 
@@ -343,6 +324,23 @@ Nenhum.
 **Encaminhamentos:**
 - Nicolly e Davi deverão apresentar suas respectivas autorizações sobre o uso de imagem ao professor Mehram.
 - O grupo considerou que o site está em ordem, restando apenas pequenos ajustes.
+
+---
+
+## ATA 17 - 29/10/2026
+
+**Assunto:** Ajustes na apresentação visual do site e organização das atas no GitHub.
+
+**Ausentes:**
+Nenhum.
+
+**Decisões:**
+- Henrique e Emanuel verificaram suas respectivas partes do projeto e concluíram que não havia mais ajustes necessários no momento.
+- O grupo deu continuidade à organização do projeto, buscando manter o site e seus registros atualizados.
+
+**Encaminhamentos:**
+- Ana e Nicolly realizaram ajustes na fonte do site e enviaram as alterações ao repositório do GitHub por meio de commits.
+- Davi continuou a inclusão das atas no GitHub, organizando o conteúdo na parte do README.md.
 
 ---
 
