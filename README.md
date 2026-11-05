@@ -10,6 +10,8 @@
 **Orientador:** Kennedy Ferreira Araújo         
 **Ano:** 2026
 
+https://github.com/davilucasm-ifc/urna/blob/main/atas.md
+
 ## Sobre os registros
 
 Este documento reúne os resumos das reuniões realizadas pelo grupo durante o desenvolvimento do Projeto Integrador I, registrando as principais decisões, atividades e encaminhamentos para a participação na SEPE 2026.
