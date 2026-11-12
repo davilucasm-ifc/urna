@@ -356,11 +356,9 @@ O projeto proporcionou experiências de pesquisa, desenvolvimento web, organiza�
 
 🔗 Acesse o projeto
 
-- 🌐 Site: "Civilização Maia" (https://henriquerovigo.github.io/projeto-PI/)
-- 📸 Instagram: "@sitecivilizacaomaia" (https://www.instagram.com/sitecivilizacaomaia/)
-- 📋 Atas: "Registro das reuniões" (https://docs.google.com/document/d/1MKHqeyrwyF_VChNlywdQCezORbZYxAH8RhEEPCQixFY/edit)
-
-- - 📸 **Instagram:** [@sitecivilizacaomaia](https://www.instagram.com/sitecivilizacaomaia/)
+- 🌐 Site: [Civilização Maia](https://henriquerovigo.github.io/projeto-PI/)
+- 📸 Instagram: [@sitecivilizacaomaia](https://www.instagram.com/sitecivilizacaomaia/)
+- 📋 Atas: [Registro das reuniões](https://docs.google.com/document/d/1MKHqeyrwyF_VChNlywdQCezORbZYxAH8RhEEPCQixFY/edit)
 
 
 **SEPE 2026 — Semana de Ensino, Pesquisa e Extensão**  
