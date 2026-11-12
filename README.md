@@ -360,6 +360,8 @@ O projeto proporcionou experiências de pesquisa, desenvolvimento web, organiza�
 - 📸 Instagram: "@sitecivilizacaomaia" (https://www.instagram.com/sitecivilizacaomaia/)
 - 📋 Atas: "Registro das reuniões" (https://docs.google.com/document/d/1MKHqeyrwyF_VChNlywdQCezORbZYxAH8RhEEPCQixFY/edit)
 
+- - 📸 **Instagram:** [@sitecivilizacaomaia](https://www.instagram.com/sitecivilizacaomaia/)
+
 
 **SEPE 2026 — Semana de Ensino, Pesquisa e Extensão**  
 **Projeto Integrador I | Civilização Maia: Avanços, Conhecimentos e Legado**  
