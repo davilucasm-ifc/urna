@@ -344,6 +344,55 @@ Nenhum.
 
 ---
 
+## ATA 18 - 05/11/2026
+
+**Assunto:** Continuidade dos ajustes na página “Sobre nós” e organização dos registros do projeto no GitHub.
+
+**Ausentes:**
+- Emanuel (justificativa: infecção intestinal).
+
+**Decisões:**
+- O grupo deu continuidade aos ajustes finais do site, concentrando os esforços na página “Sobre nós”.
+- Foi mantida a organização dos registros das reuniões no GitHub.
+
+**Encaminhamentos:**
+- Ana e Nicolly deram continuidade aos ajustes na página “Sobre nós”, revisando o texto de apresentação e outros detalhes do conteúdo.
+- Davi continuou a organização das atas, concluindo sua inclusão no GitHub.
+- Henrique realizou ajustes no CSS da página “Sobre nós”, trabalhando no alinhamento dos elementos e em melhorias na apresentação visual.
+
+---
+
+## ATA 19 - 12/11/2026
+
+**Assunto:** Melhorias no site e organização dos arquivos do projeto no GitHub.
+
+**Ausentes:**
+Nenhum.
+
+**Decisões:**
+- Ana e Nicolly decidiram desenvolver um submenu para o site, aplicando os conhecimentos adquiridos recentemente nas aulas de Desenvolvimento Web I.
+- O grupo optou por separar o registro das reuniões em um arquivo ATAS.md, mantendo no README.md apenas a apresentação e as informações gerais do projeto, com um link para acessar as atas.
+
+**Encaminhamentos:**
+- Ana e Nicolly realizaram pequenos ajustes no site, incluindo revisões nos textos e em outros detalhes das páginas.
+- Ana fez pequenas alterações no CSS de sua página e na página de Emanuel, além de enviar as modificações ao GitHub por meio de um commit.
+- Davi deu continuidade à organização do README.md, melhorando a apresentação das informações sobre o trabalho e separando o registro das reuniões no arquivo ATAS.md, que será disponibilizado por meio de um link no README.md.
+
+---
+
+## ATA 20 - 19/11/2026
+
+**Assunto:**
+
+**Ausentes:**
+Nenhum.
+
+**Decisões:**
+
+**Encaminhamentos:**
+
+
+
 ## Considerações finais
 
 As reuniões registraram as principais etapas do Projeto Integrador I, desde a escolha do tema e a organização inicial da equipe até o desenvolvimento do site, a preparação para a SEPE 2026 e a avaliação da apresentação.
