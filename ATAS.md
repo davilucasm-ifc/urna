@@ -382,16 +382,20 @@ Nenhum.
 
 ## ATA 20 - 19/11/2026
 
-**Assunto:**
+**Assunto:** Elaboração do relatório geral do terceiro trimestre e continuidade dos ajustes no projeto.
 
 **Ausentes:**
 Nenhum.
 
 **Decisões:**
+- Foi iniciada a elaboração de um relatório geral referente ao terceiro trimestre, reunindo informações sobre o desenvolvimento do projeto, as atividades realizadas pelos integrantes e as ausências durante o período.
+- O documento foi compartilhado entre os integrantes para que todos possam contribuir com suas respectivas informações.
 
 **Encaminhamentos:**
-
-
+- Emanuel iniciou a elaboração do relatório geral do terceiro trimestre, incluindo o link do site, o link do repositório, as atividades realizadas por cada integrante e a quantidade de ausências, e compartilhou o documento com o grupo.
+- Ana e Nicolly começaram a preencher o documento com as atividades que realizaram e seus respectivos registros de ausência.
+- Henrique converteu as imagens utilizadas no site para o formato SVG e realizou ajustes no rodapé (footer).
+- Davi deu continuidade à organização e aos ajustes das atas no GitHub.
 
 ## Considerações finais
 
@@ -400,7 +404,3 @@ As reuniões registraram as principais etapas do Projeto Integrador I, desde a e
 O projeto proporcionou experiências de pesquisa, desenvolvimento web, organização, colaboração e apresentação, contribuindo para a aprendizagem dos integrantes.
 
 ---
-
-**SEPE 2026 — Semana de Ensino, Pesquisa e Extensão**  
-**Projeto Integrador I | Civilização Maia: Avanços, Conhecimentos e Legado**  
-**IFC — Campus Araquari | Informática para Internet — 1INFO2**
